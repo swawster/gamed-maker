@@ -22,6 +22,8 @@
   },
   "name":"gamed maker",
   "resources":[
+    {"id":{"name":"obj_multitouch_manager","path":"objects/obj_multitouch_manager/obj_multitouch_manager.yy",},},
+    {"id":{"name":"obj_ui_parent","path":"objects/obj_ui_parent/obj_ui_parent.yy",},},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"oFlag","path":"objects/oFlag/oFlag.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
