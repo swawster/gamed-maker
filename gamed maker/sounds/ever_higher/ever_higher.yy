@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"ever_higher",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":91.97424,
+  "exportDir":"",
+  "name":"ever_higher",
+  "parent":{
+    "name":"gamed maker",
+    "path":"gamed maker.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"ever_higher.mp3",
+  "volume":1.0,
+}

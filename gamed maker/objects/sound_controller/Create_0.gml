@@ -1,0 +1,1 @@
+audio_play_sound(ever_higher, 10, true, +0.2);
