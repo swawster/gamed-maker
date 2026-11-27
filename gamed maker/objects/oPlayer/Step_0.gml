@@ -36,8 +36,14 @@ if place_meeting(x, y+1, oSolid)
 	//allows player to jump
 	if keyboard_check(vk_up)
 	{
-		ysp = -2
+		ysp = jmph
 	}
+}
+
+//also cuts momentum, but this time on ceilings
+if place_meeting(x, y-1, oSolid)
+{
+	ysp = ysp * -1
 }
 
 //applys all of the changes to the player's position
